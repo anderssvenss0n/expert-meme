@@ -5,4 +5,10 @@
 4. Fjärde grejen på min lista
 5. Femte grejen på min lista
 
-##Här kommer en text från bugg
+##Så här löser vi en konflikt
+- git fetch
+- git merge origin/main
+- lös konflikten
+- git add .
+- git commit -m "msg"
+- git push origin main
